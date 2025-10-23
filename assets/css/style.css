@@ -511,7 +511,7 @@ header .navbar ul li a:hover {
 
 .skill-card p {
   font-size: 1.2rem;
-  color: #666;
+  color: #000;
 }
 
 /* skills media queries ends*/
@@ -1032,4 +1032,5 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
 
