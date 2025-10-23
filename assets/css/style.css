@@ -493,7 +493,7 @@ header .navbar ul li a:hover {
 }
 
 .skill-card:hover {
-  background-color: rgb(153, 163, 246);
+  background: linear-gradient(to bottom, #57059e, #4a00e0);
   transform: translateY(-10px);
 }
 
@@ -1032,3 +1032,4 @@ form .button-area {
   top: calc(100% - 12rem);
 }
 /* scroll top ends */
+
